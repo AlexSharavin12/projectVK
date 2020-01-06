@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/projectVK/static/css/main.febf6ba0.chunk.css",
+    "main.css": "/projectVK/static/css/main.40b86a01.chunk.css",
     "main.js": "/projectVK/static/js/main.eca5b5ce.chunk.js",
     "main.js.map": "/projectVK/static/js/main.eca5b5ce.chunk.js.map",
     "runtime-main.js": "/projectVK/static/js/runtime-main.461ada8c.js",
@@ -9,9 +9,9 @@
     "static/js/2.1b594673.chunk.js": "/projectVK/static/js/2.1b594673.chunk.js",
     "static/js/2.1b594673.chunk.js.map": "/projectVK/static/js/2.1b594673.chunk.js.map",
     "index.html": "/projectVK/index.html",
-    "precache-manifest.7d9504de109c3a3796b973fbf100f658.js": "/projectVK/precache-manifest.7d9504de109c3a3796b973fbf100f658.js",
+    "precache-manifest.9f119d694f3ae3c5c5e2e917baa7c918.js": "/projectVK/precache-manifest.9f119d694f3ae3c5c5e2e917baa7c918.js",
     "service-worker.js": "/projectVK/service-worker.js",
     "static/css/2.4e89ce74.chunk.css.map": "/projectVK/static/css/2.4e89ce74.chunk.css.map",
-    "static/css/main.febf6ba0.chunk.css.map": "/projectVK/static/css/main.febf6ba0.chunk.css.map"
+    "static/css/main.40b86a01.chunk.css.map": "/projectVK/static/css/main.40b86a01.chunk.css.map"
   }
 }
